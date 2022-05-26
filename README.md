@@ -6,3 +6,4 @@ There are three modes to play with
 3. playing with yourself
 ![Screenshot from 2022-05-26 12-31-31](https://user-images.githubusercontent.com/74363370/170436421-9035372f-0acd-4114-8b43-385a67fc4bd0.png)
 ![Screenshot from 2022-05-26 12-33-19](https://user-images.githubusercontent.com/74363370/170436442-7b4b06e6-456d-4b7f-b0e8-669da63fed4a.png)
+![Screenshot from 2022-05-26 12-42-17](https://user-images.githubusercontent.com/74363370/170437273-1896716e-e2b8-4328-989a-ac69fc86a061.png)
